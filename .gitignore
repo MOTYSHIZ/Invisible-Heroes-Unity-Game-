@@ -1,10 +1,10 @@
 Assets/Standard Assets/
 Assets/Standard Assets.meta
 Temp/
-Library/ShaderCache/
-Library/metadata/
+Library/
+ProjectSettings/
 Assets/Editor/ImageEffects/
 Assets/Editor/ImageEffects.meta
 Assets/UnityVS/
-Library/
-ProjectSettings/
+Assets/UnityVS.meta
+
