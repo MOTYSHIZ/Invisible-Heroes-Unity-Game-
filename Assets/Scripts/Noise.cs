@@ -1,12 +1,10 @@
-﻿///<summary>
+﻿using UnityEngine;
+using System.Collections;
+
+///<summary>
 ///This class utilizes Unity's built-in Perlin Noise generator to generate the noiseMap 
 ///used by MapGenerator.cs.
 ///</summary>
-
-
-using UnityEngine;
-using System.Collections;
-
 public class Noise {
 
     ///<summary>
