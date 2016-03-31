@@ -3,5 +3,7 @@
 
 #except for Scripts Folder and .gitignore
 !/.gitignore
+!Assets/Scripts/
+!Assets/Scripts
 !/Assets/Scripts
 !/Assets/Scripts/
