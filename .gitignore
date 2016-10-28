@@ -1,9 +1,40 @@
-#ignore everything
-/*
 
-#except for Scripts Folder and .gitignore
-!/.gitignore
-!Assets/Scripts/
-!Assets/Scripts
-!/Assets/Scripts
-!/Assets/Scripts/
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Bb]uilds
+!Assets/Plugins/Google.ProtocolBuffers.dll
+!Assets/Plugins/x86/audioplugingvrunity.dll
+!Assets/Plugins/x86_64/audioplugingvrunity.dll
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini

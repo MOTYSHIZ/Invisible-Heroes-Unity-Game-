@@ -5,7 +5,6 @@ using UnityEditor;
 [CustomEditor (typeof (MapGenerator))]
 public class MapGeneratorEditor : Editor {
 
-
     ///<summary>
     ///Allows the "Autoupdate" and "Generate" buttons to work for the MapGenerator script in the Unity Editor.
     ///</summary>
